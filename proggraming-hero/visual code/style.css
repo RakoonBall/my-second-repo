@@ -1,0 +1,13 @@
+h3,li{
+    color:blue
+}
+a{
+    color :red
+}
+li{
+    list-style-type:georgian;
+}
+span.special,li.special{
+    color:pink;
+    font-weight: bold;
+}
